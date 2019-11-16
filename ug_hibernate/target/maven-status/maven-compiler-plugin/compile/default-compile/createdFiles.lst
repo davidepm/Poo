@@ -1,0 +1,3 @@
+net\ug\hibernate\main.class
+net\ug\hibernate\Book.class
+net\ug\hibernate\DaoBook.class
